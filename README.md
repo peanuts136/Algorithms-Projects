@@ -1,12 +1,15 @@
 # Algorithms-Projects
 A collection of algorithm projects which demonstrtates key principles used in algorithms
 ## Table of Contents 
--[Overview](#overview)
--[Projects](#projects)
-  - [1. Convex hull Problem](#convex-hull-problem)
-  - [2. Gene sequencing problem](#gene-sequencing-problem)
-  - [3. Loaded vs. Fair Die problem](#loaded-vs.-fair-die-problem)
--[Resources](#resources)
+[Overview](#overview)
+
+[Projects](#projects)
+  - [1. Convex hull Problem](#1-convex-hull-problem)
+  - [2. Gene sequencing problem](#2-gene-sequencing-problem)
+  - [3. Loaded vs. Fair Die problem](#3-loaded-vs-fair-die-problem)
+  - 
+[Resources](#resources)
+
 ## Overview
 These projects are meant to utilize learned algorithm principles and apply them into various coding problems
 
