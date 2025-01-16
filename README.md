@@ -1,18 +1,19 @@
 # Algorithms-Projects
 A collection of algorithm projects which demonstrtates key principles used in algorithms
 ## Table of Contents 
-[Overview](#overview)
+- [Overview](#overview)
+- [Projects](#projects)
+  - [1. Convex Hull Problem](#1-convex-hull-problem)
+  - [2. Gene Sequencing Problem](#2-gene-sequencing-problem)
+  - [3. Loaded vs. Fair Die Problem](#3-loaded-vs-fair-die-problem)
+- [Resources](#resources)
 
-[Projects](#projects)
-  - [1. Convex hull Problem](#1-convex-hull-problem)
-  - [2. Gene sequencing problem](#2-gene-sequencing-problem)
-  - [3. Loaded vs. Fair Die problem](#3-loaded-vs-fair-die-problem)
-  - 
-[Resources](#resources)
+---
 
 ## Overview
 These projects are meant to utilize learned algorithm principles and apply them into various coding problems
 
+---
 
 ## Projects
 ### 1. Convex hull problem
@@ -39,6 +40,7 @@ By analyzing the rolls of a fair vs loaded die, HMMs can be utilized in order to
  - Viterbi: outputs the most problem sequence of hidden states based on observable events, useful to find a *single best path*
  - Forward-Backward: outputs the marginal probability for each time step, useful to capturing the *uncertainty* at any point
   
+---
 
 ### Resources
 The following links are the data analyzation docs of each of the projects and problems
