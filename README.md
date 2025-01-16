@@ -44,3 +44,4 @@ By analyzing the rolls of a fair vs loaded die, HMMs can be utilized in order to
 The following links are the data analyzation docs of each of the projects and problems
   -  [Convex Hull](https://docs.google.com/document/d/1AeBn_ufy2NXda0Ij5n7mWwq5LuSZ-Va_t9op4bTcUuA/edit?usp=sharing)
   - [Gene Sequencing](https://docs.google.com/document/d/1Xr2hXBsGU0QzhebSXnkhfqyUHGSpO4ZEZOzxjIVF-c8/edit?usp=sharing)
+  - [Loaded vs. Fair Die](https://docs.google.com/document/d/1_q0R1-LTI5npcNLo-3DWWSD6nxCBJnBlbxCyD5rb9FM/edit?usp=sharing)
